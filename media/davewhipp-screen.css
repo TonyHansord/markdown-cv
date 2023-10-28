@@ -283,7 +283,9 @@ strong {
   width: 30%;
 }
 
-/*
+
 @media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+	body {
+	width: 100%;
+	}
+}
