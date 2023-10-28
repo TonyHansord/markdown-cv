@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_includes/header.md",
-                "mode": "preview",
+                "file": "_includes/education.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_includes/header.md",
+                "file": "_includes/education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_includes/header.md",
+                "file": "_includes/education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_includes/header.md"
+                "file": "_includes/education.md"
               }
             }
           }
@@ -148,7 +148,20 @@
   },
   "active": "f16283a143f8f7f2",
   "lastOpenFiles": [
+    "_includes/projects.md",
+    "_includes/experience.md",
     "index.md",
-    "_includes/header.md"
+    "_includes/skills.md",
+    "_includes/education.md",
+    "_includes/header.md",
+    "_site/media/kjhealy-screen.css",
+    "_site/media/kjhealy-print.css",
+    "_site/media/davewhipp-screen.css",
+    "_site/media/davewhipp-print.css",
+    "_site/media",
+    "_site/index.html",
+    "_site/README.md",
+    "_site/LICENSE",
+    "_site"
   ]
 }

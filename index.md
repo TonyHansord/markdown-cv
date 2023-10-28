@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Anthony Hansord's CV
+title: Anthony Hansord
 ---
-	{% include header.md %}
 
+{% include header.md %}
+{% include skills.md %}
+{% include experience.md %}
+{% include education.md %}
+{% include projects.md %}
 
+## References
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Available upon request.
