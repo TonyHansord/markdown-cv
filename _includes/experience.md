@@ -4,6 +4,7 @@
 **Comfortel Furniture | Warehouse Attendant**
 
 - Assisted in implementing new digital pick-packing software.
+- Generated missing barcode labels, to improve efficiency of picking process by 80%.
 - Mentored fellow colleagues in using new software.
 - Consistently contributed to exceeding monthly target of $1.2M.
 
@@ -18,9 +19,9 @@
 
 - Liaise with customers to understand their needs.
 - Built rapport with callers to ensure customer experience.
-- Providing phone support for the MyGov portal.
+- Set customers up with online access to reduce call volume by 20%.
 
-### Additional Experience
+<!-- ### Additional Experience
 
 `Jul 2018 – Sept 2019`
 **Freelance Stagehand**  
@@ -33,5 +34,5 @@
 
 `Jul 2017 – May 2018` **WorkforceXs Labourer**  
 
-`Dec 2012 – Jul 2015` **McDonalds Kitchenhand**  
+`Dec 2012 – Jul 2015` **McDonalds Kitchenhand**   -->
 

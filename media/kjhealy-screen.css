@@ -175,13 +175,6 @@ li:before {
   left: -0.25em;
 }
 
-li {
-  /*second line indent*/
-  /* padding-left: 1.25em;
-  text-indent: -1.25em; */
-  /*color: #777;*/
-}
-
 li ul {
   position: relative;
   left: 0;
@@ -208,7 +201,6 @@ h1 {
 
 h1 + p {
   /*subtitle*/
-  font-style: italic;
   font-size: 110%;
   text-align: center;
 }

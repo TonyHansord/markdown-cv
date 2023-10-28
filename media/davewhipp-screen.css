@@ -170,7 +170,7 @@ ul {
   position: relative;
   left: 25%;
   width: 60%;
-  margin-top: -0.5em;
+  margin-bottom: 1em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -178,13 +178,6 @@ li:before {
   content: '-';
   position: relative;
   left: -0.25em;
-}
-
-li {
-  /*second line indent*/
-  /* padding-left: 1.25em;
-	text-indent: -1.25em; */
-  /*color: #777;*/
 }
 
 li ul {
@@ -204,17 +197,33 @@ h4 {
 }
 
 h1 {
-  text-align: left;
+  text-align: center;
   font-size: 3em;
   line-height: 1em;
   position: relative;
-  left: 25%;
+  width: 100%;
 }
 
-h1 + p {
+h1 + ul {
   /*subtitle*/
-  font-style: italic;
   font-size: 110%;
+  width: 100%;
+  left: 0;
+  top: 0.5em;
+  text-align: center;
+}
+
+h1 + ul > li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+h1 + ul > li::before {
+  content: '';
+}
+
+li a {
+  text-decoration: none;
 }
 
 h2 {
@@ -283,9 +292,8 @@ strong {
   width: 30%;
 }
 
-
 @media only screen and (max-width: 480px) {
-	body {
-	width: 100%;
-	}
+  body {
+    width: 100%;
+  }
 }
