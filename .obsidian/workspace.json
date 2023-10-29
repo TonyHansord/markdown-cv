@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f16283a143f8f7f2",
+  "active": "0b0a437a86b8fbcc",
   "lastOpenFiles": [
+    "_includes/about.md",
     "_includes/projects.md",
     "_includes/experience.md",
     "index.md",

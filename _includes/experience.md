@@ -12,6 +12,7 @@
 **Bidfood | Customer Service Representative**
 
 - Promptly attending to order issues raised by customers.
+- Streamlined the process of payroll entry by 10%.
 - Processing of an average of 80 customers’ orders a day, by phone and email.
 
 `May 2018 – Jan 2019`

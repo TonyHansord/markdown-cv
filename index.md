@@ -4,6 +4,7 @@ title: Anthony Hansord
 ---
 
 {% include header.md %}
+{% include about.md %}
 {% include skills.md %}
 {% include experience.md %}
 {% include education.md %}
