@@ -1,6 +1,6 @@
 ## Experience
 
-`Nov 2020 – Present`
+`Nov 2020 – Jul 2024`
 **Comfortel Furniture | Warehouse Attendant**
 
 - Assisted in implementing new digital pick-packing software.
