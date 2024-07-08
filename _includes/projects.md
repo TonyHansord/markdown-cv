@@ -5,13 +5,10 @@
 
 **SalesPick**
 
-|   |
-|---|
 - Full-stack Inventory Management app, built with JavaScript and React.js for the frontend and Ruby on Rails with PostgreSQL database, for the backend.
 - Implements AWS S3 for asset storage.
 - Deployed on Render.com.
-- Presented project at Melbourne Ruby Meetup|
-
+- Presented project at Melbourne Ruby Meetup.
 
 `2020`
 
